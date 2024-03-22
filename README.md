@@ -30,6 +30,8 @@ Pärast klientide andmete analüüsimist jõudsin järeldusele, et järgmised as
 
 Failis 'main.ipynb' käivitame järjest kõik funktsioonid, mis täidavad faile ülesandes antud faili põhjal 'initial.csv'. Pärast kõikide meetodite käivitamist on täidetud failid 'churn.csv' - kõik lahkunud kliendid, 'retention.csv' - jäänud kliendid, 'file_to_analyse.csv' - fail lahkunud ja jäänud klientide peamiste teguritega.
 
+![img.png](img.png)
+
 1. **Teenuste kasutamine** - Säilitatud klientide keskmine teenuste arv inimese kohta (4.2) on veidi kõrgem kui lahkunud klientidel (4.1), mis võib viidata sellele, et suurem teenuste kasutamine võib soodustada klientide säilimist.
 2. **Partnerid/Ülalpeetavad** - Säilitatud klientidel on keskmiselt rohkem partnereid või ülalpeetavaid (0.9) võrreldes lahkunud klientidega (0.5). See võib näidata, et kliendid, kellel on rohkem sotsiaalseid või majanduslikke sidemeid, kipuvad teenuseid kauem kasutama.
 3. **Lepingutüübid** - Suurim erinevus säilitatud ja lahkunud klientide vahel on lepingutüüpides. Säilitatud klientidel on levinumad üheaastased (25.3%) ja kaheaastased (31.8%) lepingud, samas kui lahkunud klientidel domineerib kuupõhine leping (88.6%). See tugevalt viitab sellele, et pikemaajalised lepingud aitavad kaasa klientide lojaalsusele ja vähendavad lahkumise tõenäosust.
